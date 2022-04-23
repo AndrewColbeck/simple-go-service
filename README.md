@@ -1,0 +1,1 @@
+Small Web Service running in Go.  To start the service use command `go run cmd/simple-service/main.go` from the root project directory.
